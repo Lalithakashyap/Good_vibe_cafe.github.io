@@ -1,1 +1,7 @@
-# Good_vibes_cafe.github.io
+# cafe
+responsive site built with bootstrap
+
+https://aliciachafee.github.io/cafe/
+
+
+
